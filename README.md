@@ -1,6 +1,6 @@
 # ESPSlopkit
 ESP32 Slopkit is built from VS Code with PlatformIO.
-It tested on ESP32-S3FN8 dongle
+It test on ESP32-S3FN8 dongle
 
 ![image](https://github.com/MacleodTW/ESPSlopkit/blob/main/ESP32%20S3%20Dongle.png)
 
