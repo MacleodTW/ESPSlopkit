@@ -18,6 +18,6 @@ Usage:
 10. Click jailbreak after done, it shows "Payload Manager" and "Webkit Autoloader Installer" buttons to send payload
 
 Credit:
-jordyidk - <a href="https://github.com/jordyidk/slopkit">slopkit</a>
-itsPLK - <a href="https://github.com/itsPLK/ps5-payload-manager">ps5-payload-manager</a>
-itsPLK - <a href="https://github.com/itsPLK/ps5-webkit-autoloader/">ps5-webkit-autoloader</a>
+jordyidk - <a href="https://github.com/jordyidk/slopkit">slopkit</a><BR>
+itsPLK - <a href="https://github.com/itsPLK/ps5-payload-manager">ps5-payload-manager</a><BR>
+itsPLK - <a href="https://github.com/itsPLK/ps5-webkit-autoloader/">ps5-webkit-autoloader</a><BR>
