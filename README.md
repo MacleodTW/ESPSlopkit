@@ -17,7 +17,7 @@ Usage:
 09. PS5 Settings -> Guide & Tips, Health and Safety, and Other information -> User's Guide -> If it shows security xxx click "Yes"
 10. Click jailbreak after done, it shows "Payload Manager" and "Webkit Autoloader Installer" buttons to send payload
 
-Credit:
+Credit:<BR>
 jordyidk - <a href="https://github.com/jordyidk/slopkit">slopkit</a><BR>
 itsPLK - <a href="https://github.com/itsPLK/ps5-payload-manager">ps5-payload-manager</a><BR>
 itsPLK - <a href="https://github.com/itsPLK/ps5-webkit-autoloader/">ps5-webkit-autoloader</a><BR>
