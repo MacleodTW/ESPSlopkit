@@ -5,7 +5,7 @@ It has tested on ESP32-S3FN8 dongle with PS5 firmware 10.01
 ![image](https://github.com/MacleodTW/ESPSlopkit/blob/main/ESP32%20S3%20Dongle.png)
 
 Requirement:<BR>
-ESP32 S3 8MB flash or more
+。ESP32 S3 8MB flash or more
 <BR>
 
 Usage:
@@ -21,6 +21,6 @@ Usage:
 10. Click jailbreak. After all is done, it shows "Payload Manager" and "Webkit Autoloader Installer" buttons to send payload
 
 Credit:<BR>
-jordyidk - <a href="https://github.com/jordyidk/slopkit">slopkit</a><BR>
-itsPLK - <a href="https://github.com/itsPLK/ps5-payload-manager">ps5-payload-manager</a><BR>
-itsPLK - <a href="https://github.com/itsPLK/ps5-webkit-autoloader/">ps5-webkit-autoloader</a><BR>
+。jordyidk - <a href="https://github.com/jordyidk/slopkit">slopkit</a><BR>
+。itsPLK - <a href="https://github.com/itsPLK/ps5-payload-manager">ps5-payload-manager</a><BR>
+。itsPLK - <a href="https://github.com/itsPLK/ps5-webkit-autoloader/">ps5-webkit-autoloader</a><BR>
