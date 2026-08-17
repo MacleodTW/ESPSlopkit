@@ -4,6 +4,8 @@ It has tested on ESP32-S3FN8 dongle with PS5 firmware 10.01
 
 ![image](https://github.com/MacleodTW/ESPSlopkit/blob/main/ESP32%20S3%20Dongle.png)
 
+Requirement:
+ESP32 S3 8MB flash or more
 
 Usage:
 01. Download release ESPSlopkit_xxx.zip
